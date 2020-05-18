@@ -1,6 +1,8 @@
 package com.example.demo;
 
+
 public class Employee {
+
     private String firstName;
     private String lastName;
     private String ssn;
